@@ -1,6 +1,6 @@
 # reactApp-learnbook
 
-For learning of React purposes
+For learning purposes. This react app simulates a shopping cart widget where the user is able to increase the frequency of each item, reset the frequency of each item and to delete items.
 
 Refer to https://seanjin97.github.io/reactApp-learnbook/ for live version of the react app.
 
