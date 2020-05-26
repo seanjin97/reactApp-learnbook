@@ -2,6 +2,8 @@
 
 For learning of React purposes
 
+Refer to https://seanjin97.github.io/reactApp-learnbook/ for live version of the react app.
+
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
