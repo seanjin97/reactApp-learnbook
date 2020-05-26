@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactApp-learnbook/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactApp-learnbook/static/js/main.bf972d00.chunk.js",
-    "main.js.map": "/reactApp-learnbook/static/js/main.bf972d00.chunk.js.map",
+    "main.js": "/reactApp-learnbook/static/js/main.5de95f99.chunk.js",
+    "main.js.map": "/reactApp-learnbook/static/js/main.5de95f99.chunk.js.map",
     "runtime-main.js": "/reactApp-learnbook/static/js/runtime-main.a9ff4e07.js",
     "runtime-main.js.map": "/reactApp-learnbook/static/js/runtime-main.a9ff4e07.js.map",
     "static/css/2.829c9cb5.chunk.css": "/reactApp-learnbook/static/css/2.829c9cb5.chunk.css",
     "static/js/2.78e75b79.chunk.js": "/reactApp-learnbook/static/js/2.78e75b79.chunk.js",
     "static/js/2.78e75b79.chunk.js.map": "/reactApp-learnbook/static/js/2.78e75b79.chunk.js.map",
     "index.html": "/reactApp-learnbook/index.html",
-    "precache-manifest.acb6d59a249a27f36bb5807a47772eab.js": "/reactApp-learnbook/precache-manifest.acb6d59a249a27f36bb5807a47772eab.js",
+    "precache-manifest.054121afad1d6a7175920cd3d8424fd2.js": "/reactApp-learnbook/precache-manifest.054121afad1d6a7175920cd3d8424fd2.js",
     "service-worker.js": "/reactApp-learnbook/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/reactApp-learnbook/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/reactApp-learnbook/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.78e75b79.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bf972d00.chunk.js"
+    "static/js/main.5de95f99.chunk.js"
   ]
 }

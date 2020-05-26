@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f8442dc57e28fe6345ef662aa57113c",
+    "revision": "a6876961f64afbe5b56f2f89ba4b2606",
     "url": "/reactApp-learnbook/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactApp-learnbook/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "8ccd25c82668498cfde5",
+    "revision": "71f91a9bd6c06135f657",
     "url": "/reactApp-learnbook/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactApp-learnbook/static/js/2.78e75b79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ccd25c82668498cfde5",
-    "url": "/reactApp-learnbook/static/js/main.bf972d00.chunk.js"
+    "revision": "71f91a9bd6c06135f657",
+    "url": "/reactApp-learnbook/static/js/main.5de95f99.chunk.js"
   },
   {
     "revision": "4d48404bd916922b6cb4",
